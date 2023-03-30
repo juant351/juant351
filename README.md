@@ -1,12 +1,17 @@
 <h1 align="center">Hola! 👋, soy JuanT351</h1>
 
+**Computer Engineering** student in the **Software Engineering Major**. 
+Currently working as **Android Developer Trainee** at **GMV**
+
+During my internship as an intern, I have discovered that mobile software development is something that fulfills me and excites me, so I seek to train and investigate more in this subject.
+
 Estudiante de **Ingeniería Informática** en la **Mención de Ingeniería de Software**. 
 Actualmente ejerciendo como **Android Developer Trainee** en **GMV**
 
 Durante mi periodo de prácticas como becario, he descubierto que el desarrollo de software móvil es algo que me llena y me apasiona, así que busco formarme e indagar más
 en este tema.
 
-<h3 align="left">Lenguajes Programación:</h3>
+<h3 align="left">Programming:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -18,7 +23,7 @@ en este tema.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Desarrollo Frontend:</h3>
+<h3 align="left">Frontend: </h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -34,7 +39,7 @@ en este tema.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>  
 </p>
 
-<h3 align="left">Contacta conmigo:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/juantorresviloria" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juantorresviloria" height="30" width="40" /></a>

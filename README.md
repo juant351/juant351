@@ -1,16 +1,21 @@
-<h1 align="center">Hola! 👋, soy JuanT351</h1>
+<h1 align="center">Hello there! 👋, I'm JuanT351</h1>
 
-**Computer Engineering** student in the **Software Engineering Major**. 
+<p align="justify">
+
+**Computer Engineering** student in the **Software Engineering Major**.\
 Currently working as **Android Developer Trainee** at **GMV**
 
 During my internship as an intern, I have discovered that mobile software development is something that fulfills me and excites me, so I seek to train and investigate more in this subject.
+  
+---
 
-Estudiante de **Ingeniería Informática** en la **Mención de Ingeniería de Software**. 
+Estudiante de **Ingeniería Informática** en la **Mención de Ingeniería de Software**.\
 Actualmente ejerciendo como **Android Developer Trainee** en **GMV**
 
 Durante mi periodo de prácticas como becario, he descubierto que el desarrollo de software móvil es algo que me llena y me apasiona, así que busco formarme e indagar más
 en este tema.
-
+</p>
+  
 <h3 align="left">Programming:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 

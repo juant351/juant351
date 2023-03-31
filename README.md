@@ -16,38 +16,54 @@ Durante mi periodo de prácticas como becario, he descubierto que el desarrollo 
 en este tema.
 </p>
   
-<h3 align="left">Programming:</h3>
+<h1 align="left">Programming:</h1>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src=https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg alt="kotlin" width="40" height="40"/> </a>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg alt="kotlin" width="60" height="60"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
 </p>
 
-<h3 align="left">Frontend: </h3>
+<h1 align="left">Frontend: </h1>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
  </p>
  
-<h3 align="left">Database:</h3>
+<h1 align="left">Database:</h1>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>  
 </p>
 
-<h3 align="left">Find me:</h3>
+<h1 align="left">Find me:</h1>
 <p align="left">
   <a href="https://linkedin.com/in/juantorresviloria" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juantorresviloria" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juantorresviloria" height="45" width="50" /></a>
+</p>
+
+<h1 align="left">Activity:</h1>
+<p align="left">
+  <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juant351&langs_count=8&theme=tokyonight&hide_border=true">
+  
+<div align="right">
+  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=juant351&show_icons=true&custom_title=JuanT351%20Github%20Stats&theme=tokyonight&hide_border=true">
+  <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=juant351&theme=tokyonight&hide_border=true">
+</div>
+
+<div align="center">
+    <br><p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{juant351}/count.svg" /></p> 
+    <br>
+    </div>
 </p>
 
 <!--

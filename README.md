@@ -3,16 +3,14 @@
 <p align="justify">
 
 **Computer Engineering** student in the **Software Engineering Major**.\
-Currently working as **Android Developer Trainee** at **GMV**
 
-During my internship as an intern, I have discovered that mobile software development is something that fulfills me and excites me, so I seek to train and investigate more in this subject.
+During my internship as an intern in GMV, I have discovered that mobile software development is something that fulfills me and excites me, so I seek to train and investigate more in this subject.
   
 ---
 
 Estudiante de **Ingeniería Informática** en la **Mención de Ingeniería de Software**.\
-Actualmente ejerciendo como **Android Developer Trainee** en **GMV**
 
-Durante mi periodo de prácticas como becario, he descubierto que el desarrollo de software móvil es algo que me llena y me apasiona, así que busco formarme e indagar más
+Durante mi periodo de prácticas como becario en GMV, he descubierto que el desarrollo de software móvil es algo que me llena y me apasiona, así que busco formarme e indagar más
 en este tema.
 </p>
   

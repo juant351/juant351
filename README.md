@@ -2,13 +2,13 @@
 
 <p align="justify">
 
-**Computer Engineering** student in the **Software Engineering Major**.\
+**Computer Engineer** with the branch **Software Engineering Major**.
 
 During my internship as an intern in GMV, I have discovered that mobile software development is something that fulfills me and excites me, so I seek to train and investigate more in this subject.
   
 ---
 
-Estudiante de **Ingeniería Informática** en la **Mención de Ingeniería de Software**.\
+**Ingeniero Informático** por la rama **Mención de Ingeniería de Software**.
 
 Durante mi periodo de prácticas como becario en GMV, he descubierto que el desarrollo de software móvil es algo que me llena y me apasiona, así que busco formarme e indagar más
 en este tema.
@@ -16,10 +16,12 @@ en este tema.
   
 <h1 align="left">Programming:</h1>
 <p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src=https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg alt="kotlin" width="60" height="60"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>
+  <a href="https://www.apple.com/co/swift/" target="_blank" rel="noreferrer"> 
+    <img src=https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg alt="swift" width="60" height="60"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -28,6 +30,8 @@ en este tema.
 
 <h1 align="left">Frontend: </h1>
 <p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="html5" width="60" height="60"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -39,7 +43,9 @@ en este tema.
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="60" height="60"/></a>
 </p>
 
 <h1 align="left">Find me:</h1>

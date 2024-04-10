@@ -2,15 +2,15 @@
 
 <p align="justify">
 
-**Computer Engineer** with the branch **Software Engineering Major**.
+**Computer Engineer** with the branch **Software Engineering Major** from the **University  of Valladolid**.
 
-During my internship as an intern in GMV, I have discovered that mobile software development is something that fulfills me and excites me, so I seek to train and investigate more in this subject.
+During my internship as an intern in **GMV**, I have discovered that mobile software development is something that fulfills me and excites me, so I seek to train and investigate more in this subject.
   
 ---
 
-**Ingeniero Informático** por la rama **Mención de Ingeniería de Software**.
+**Ingeniero Informático** en la rama **Mención de Ingeniería de Software** por la **Universidad de Valladolid**.
 
-Durante mi periodo de prácticas como becario en GMV, he descubierto que el desarrollo de software móvil es algo que me llena y me apasiona, así que busco formarme e indagar más
+Durante mi periodo de prácticas como becario en **GMV**, he descubierto que el desarrollo de software móvil es algo que me llena y me apasiona, así que busco formarme e indagar más
 en este tema.
 </p>
   
